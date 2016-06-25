@@ -14,8 +14,6 @@ El stand es interactivo e intencionalmente lo-tech, estando compuesto por acerti
 
 A la vez, el stand tiene el concepto de mostrar que hay una parte importante de nuestra carrera que tiene que ver con razonar lógicamente, y que la Computación va mucho más allá del uso de una computadora.
 
-[Slack!](http://logica-sdc.slack.com/)
-
 Índice
 ----------------
 
