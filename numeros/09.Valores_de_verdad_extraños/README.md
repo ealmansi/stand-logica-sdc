@@ -15,7 +15,7 @@ Esta frase tiene seis palabras
 
 ![](frase_6_palabras.jpg)
 
-* La gracia está en pensar a la frase como una proposición. "Esta frase no tiene seis palabras" es falsa, pero al negarla sigue siendo falsa: "Esta frase tiene seis palabras".
+* La gracia está en pensar a la frase como una proposición. "Esta frase no tiene seis palabras" es falsa, pero al negarla sigue siendo falsa: "Esta frase tiene seis palabras". Es decir, dada una proposición y su negación, ambas son falsas a la vez.
 
 Vos no sabías que tengo 23 años
 -------------------------------
