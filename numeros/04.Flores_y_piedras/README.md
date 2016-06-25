@@ -12,3 +12,5 @@ Jardin Flores
 -------------
 
 ![](jardin_flores.jpg)
+
+* Solución: Por la primera condición, no puede haber más de dos flores que no sean azules. Como tiene que haber al menos una roja y una verde, entonces hay exactamente una roja y una verde. El mismo razonamiento con la segunda condición nos dice que hay exactamente una roja (ya lo sabíamos), y una azul. O sea, hay exactamente una de cada color, y la respuesta es: sí.
