@@ -16,7 +16,7 @@ Caballeros y escuderos
 ![](caballeros_escuderos.jpg)
 ![](caballeros_escuderos_2.jpg)
 
-* Solución: ??
+* Solución: "Al menos uno de ustedes es escudero?". El que dice que sí es caballero, el otro es escudero.
 
 Alicia y el día de la semana
 -------------
