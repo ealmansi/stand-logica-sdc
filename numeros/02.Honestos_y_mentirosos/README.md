@@ -19,11 +19,11 @@ Caballeros y escuderos
 * Solución: "Al menos uno de ustedes es escudero?". El que dice que sí es caballero, el otro es escudero.
 
 Alicia y el día de la semana
--------------
+----------------------------
 
 ![](alicia_semana.jpg)
 
-* Solución: ??
+* Solución: Jueves. Por qué?
 
 Isla Zombis
 -----------
