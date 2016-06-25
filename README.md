@@ -10,7 +10,7 @@ Sobre el stand
 
 Este stand se viene realizando hace varios años en la Semana de la Computación, y tiene como finalidades las de introducir de forma informal algunos conceptos básicos de la lógica, presentar curiosidades o paradojas lógicas, y desafiar a los participantes con acertijos.
 
-El stand es interactivo e intencionalmente lo-tech, estando compuesto por acertijos o juegos escritos en papel (muchas veces a mano). Los participantes que se acercan al stand reciben un dado de 12 caras y, en función del número que obtienen, les presentamos uno de los doce items que aparecen enumerados en el índice. Cada número consiste en un acertijo para plantearle al participante, o en otros casos, simplemente en la presentacion de alguna idea interesante o paradójica para abrir la mente o quedarse pensando.
+El stand es interactivo e intencionalmente lo-tech, estando compuesto por acertijos o juegos escritos en papel (muchas veces a mano). Los participantes que se acercan al stand reciben un dado de 12 caras y, en función del número que obtienen, les presentamos uno de los doce items que aparecen enumerados en el índice (ver [abajo](#Índice)). Cada número consiste en un acertijo para plantearle al participante, o en otros casos, simplemente en la presentacion de alguna idea interesante o paradójica para abrir la mente o quedarse pensando.
 
 A la vez, el stand tiene el concepto de mostrar que hay una parte importante de nuestra carrera que tiene que ver con razonar lógicamente, y que la Computación va mucho más allá del uso de una computadora.
 
