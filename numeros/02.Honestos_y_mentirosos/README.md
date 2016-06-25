@@ -1,31 +1,23 @@
 Honestos y mentirosos
 =====================
 
-Cabelleros Bribones
--------------------
+Estos acertijos se tratan sobre una situación donde alguien siempre dice la verdad, y alguien siempre miente. En cada caso, queremos sacar algún tipo de información haciendo una pregunta que nos permita distinguir entre quién miente y quién es honesto.
 
-![](cabelleros_bribones.jpg)
+El prisionero y los vigilantes
+------------------------------
 
-Vampiros
---------
+![](prisionero_vigilantes.jpg)
 
-![](vampiros.jpg)
-
-Alicia Semana
--------------
-
-![](alicia_semana.jpg)
-
-Caballeros Escuderos
---------------------
+Caballeros y escuderos
+----------------------
 
 ![](caballeros_escuderos.jpg)
 ![](caballeros_escuderos_2.jpg)
 
-Prisionero Vigilantes
----------------------
+Alicia y el día de la semana
+-------------
 
-![](prisionero_vigilantes.jpg)
+![](alicia_semana.jpg)
 
 Isla Zombis
 -----------
