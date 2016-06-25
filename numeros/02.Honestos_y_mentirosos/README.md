@@ -8,7 +8,7 @@ El prisionero y los vigilantes
 
 ![](prisionero_vigilantes.jpg)
 
-* Solución: ??
+* Solución: "El otro vigilante me diría que tu puerta conduce a la libertad?" Si la respuesta es que no, cruzo la puerta. Sino, cruzo la otra puerta.
 
 Caballeros y escuderos
 ----------------------
