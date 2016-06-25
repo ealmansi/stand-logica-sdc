@@ -8,17 +8,25 @@ El prisionero y los vigilantes
 
 ![](prisionero_vigilantes.jpg)
 
+* Solución: ??
+
 Caballeros y escuderos
 ----------------------
 
 ![](caballeros_escuderos.jpg)
 ![](caballeros_escuderos_2.jpg)
 
+* Solución: ??
+
 Alicia y el día de la semana
 -------------
 
 ![](alicia_semana.jpg)
 
+* Solución: ??
+
 Isla Zombis
 -----------
 ![](isla_zombis.jpg)
+
+* Solución: ??
