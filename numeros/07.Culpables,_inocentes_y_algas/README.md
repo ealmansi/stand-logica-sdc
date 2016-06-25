@@ -1,12 +1,12 @@
 Culpables, inocentes y algas
 ============================
 
-Hermanos Patio
---------------
+Quién es culpable?
+------------------
 
-![](hermanos_patio.jpg)
+![](culpables_inocentes.jpg)
 
-Algas
------
+Las algas echan humo?
+---------------------
 
 ![](algas.jpg)
