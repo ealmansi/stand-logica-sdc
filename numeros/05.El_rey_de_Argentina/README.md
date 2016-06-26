@@ -17,5 +17,5 @@ Rey Egoista
 
 ![](rey_egoista.jpg)
 
-* Como el anterior, pero más explícito.
+* Como el anterior, cuantificador vs existencial.
 
