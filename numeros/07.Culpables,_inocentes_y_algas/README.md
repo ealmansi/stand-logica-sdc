@@ -13,3 +13,5 @@ Las algas echan humo?
 ---------------------
 
 ![](algas.jpg)
+
+* Solución: todo lo que echa humo, usa desodorante y, por lo tanto, sabe tocar el saxo. Las algas usan medias rojas y, por lo tanto, no pueden tocar el saxo. Entonces, las algas NO pueden echar humo.
