@@ -8,6 +8,7 @@ Bici o caramelos
 ![](bici_o_caramelos.jpg)
 
 * Qué decís para ganarte la bicicleta?
+* Solución: No me vas a dar la bolsa de caramelos. Por qué funciona: si me das la bolsa, la frase que dije es falsa y me deberías haber dado un caramelo. Si me das un caramelo, la frase que dije es verdadera y me tendrías que haber dado la bolsa de caramelos o la bici. La única opción consistente que queda es que me des la bici.
 
 
 Diez pesos
