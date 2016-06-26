@@ -17,8 +17,9 @@ Diez pesos
 ![](diez_pesos.jpg)
 
 * Qué decís para ganarte más de 10 pesos?
+* Me vas a dar menos de 10 pesos.
 * Y para ganarte más de 1 millón de pesos?
-
+* Me vas a dar menos de un millón de pesos, pero no 10.
 
 Juan y Laura
 --------------
