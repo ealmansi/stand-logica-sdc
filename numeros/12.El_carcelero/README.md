@@ -1,4 +1,0 @@
-El carcelero
-============
-
-![](carcelero.jpg)

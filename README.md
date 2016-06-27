@@ -39,5 +39,5 @@ A la vez, el stand tiene el concepto de mostrar que hay una parte importante de 
 
 [11. El retrato de Porcia](https://github.com/ealmansi/stand-logica-sdc/tree/master/numeros/11.El_retrato_de_Porcia)
 
-[12. El carcelero](https://github.com/ealmansi/stand-logica-sdc/tree/master/numeros/12.El_carcelero)
+[12. Bombillas de luz](https://github.com/ealmansi/stand-logica-sdc/tree/master/numeros/12.Bombillas_de_luz)
 
